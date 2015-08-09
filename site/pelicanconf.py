@@ -33,7 +33,7 @@ QUOTES = [
   "<a href='https://www.youtube.com/watch?v=LhF_56SxrGk'>ENHANCE</a>!"
 ]
 
-TAGLINE = "Hello! Toronto guy from Montreal here. Tech, things, city, code, travel, <a href='https://instagram.com/p/ulZ56MwWf9/'>schnauzer</a>."
+TAGLINE = "Hello! Toronto guy from Montreal. Tech, things, city, code, travel, <a href='https://instagram.com/p/ulZ56MwWf9/'>schnauzer</a>."
 
 # Icon row links
 # Font-Awesome icon names. e.g. <i class="fa fa-<NAME>"></i>
